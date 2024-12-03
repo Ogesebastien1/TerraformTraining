@@ -1,2 +1,2 @@
-./variables.tf
-./terraform.tfvars
+.variables.tf
+.terraform.tfvars
